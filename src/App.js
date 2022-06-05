@@ -29,7 +29,7 @@ function App() {
       <div>
         <Navbar navArray={navArray}/>
         <Routes>
-          <Route path='/' exact element={<Welcom   offsetY={offsetY}  />}/>
+          <Route path='' exact element={<Welcom   offsetY={offsetY}  />}/>
           <Route path='/about' element={<About />}/>
           <Route path='/profile' element={<Profile offsetY={offsetY}/>}/>
           <Route path='/skills' element={<Skills />}/>
