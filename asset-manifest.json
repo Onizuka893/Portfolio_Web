@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/Portfolio_Web/static/css/main.b043f432.css",
-    "main.js": "/Portfolio_Web/static/js/main.8d11d031.js",
+    "main.css": "/Portfolio_Web/static/css/main.510fbd6a.css",
+    "main.js": "/Portfolio_Web/static/js/main.48b3b7e4.js",
     "static/js/787.11baedba.chunk.js": "/Portfolio_Web/static/js/787.11baedba.chunk.js",
+    "static/media/Gameboy_vid.mp4": "/Portfolio_Web/static/media/Gameboy_vid.f1db72175977658feedf.mp4",
+    "static/media/Arcade.jpg": "/Portfolio_Web/static/media/Arcade.2f09b76b07f31f5363ba.jpg",
+    "static/media/Gameboy.jpg": "/Portfolio_Web/static/media/Gameboy.6699c8f4df748cbb480b.jpg",
     "static/media/Galgje_app.jpg": "/Portfolio_Web/static/media/Galgje_app.d374ac23ee8339c0632f.jpg",
     "static/media/scobiel_web.jpg": "/Portfolio_Web/static/media/scobiel_web.f161a759795e0381b93c.jpg",
     "static/media/AH_app.jpg": "/Portfolio_Web/static/media/AH_app.c79f45c1ac55ad7b8182.jpg",
@@ -14,12 +17,12 @@
     "static/media/c-sharp.svg": "/Portfolio_Web/static/media/c-sharp.e2c0510d2b743a87e7621b703ba07906.svg",
     "static/media/javascript-js.svg": "/Portfolio_Web/static/media/javascript-js.fd46ca41839433d73577989d86eb2fe2.svg",
     "index.html": "/Portfolio_Web/index.html",
-    "main.b043f432.css.map": "/Portfolio_Web/static/css/main.b043f432.css.map",
-    "main.8d11d031.js.map": "/Portfolio_Web/static/js/main.8d11d031.js.map",
+    "main.510fbd6a.css.map": "/Portfolio_Web/static/css/main.510fbd6a.css.map",
+    "main.48b3b7e4.js.map": "/Portfolio_Web/static/js/main.48b3b7e4.js.map",
     "787.11baedba.chunk.js.map": "/Portfolio_Web/static/js/787.11baedba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b043f432.css",
-    "static/js/main.8d11d031.js"
+    "static/css/main.510fbd6a.css",
+    "static/js/main.48b3b7e4.js"
   ]
 }
